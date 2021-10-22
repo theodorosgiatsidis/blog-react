@@ -1,0 +1,19 @@
+.Wrapper {
+  text-align: center;
+}
+
+.WrapperItems {
+  padding: 5px;
+  margin: 10px;
+  border-bottom: 1px solid grey;
+}
+
+.btnItems {
+  position: absolute;
+  background-color: lightcoral;
+  cursor: pointer;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  margin-left: 10px;
+}
